@@ -1,6 +1,12 @@
 # DIP-0003
 This is a proposal to enable gauges [insert gauge link TBD] for DIESEL/CheekyB and frBTC/CheekyB.
 
+Title:  Enable Gauges For DIESEL/CheekyB and frBTC/CheekyB
+Author: CheekyB
+Status: Draft
+Created: 5/29/2026
+License: MIT/VPL
+
 ## Summary:
 This is a proposal to enable gauges [insert gauge link TBD] for DIESEL/CheekyB and frBTC/CheekyB.
 References/Useful links:
