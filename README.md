@@ -22,12 +22,14 @@ No.
 
 CheekyB will drain you and steal your girl.
 
-## Centralization vectors: Is there any component of the protocol that has centralization vectors? E.g. if only 1 dev manages the project, that is a centralized vector. If price oracles need to be updated by a bot, that is a centralized vector. If liquidations are done by the protocol, that is also a centralization vector.
+Centralization vectors: Is there any component of the protocol that has centralization vectors? E.g. if only 1 dev manages the project, that is a centralized vector. If price oracles need to be updated by a bot, that is a centralized vector. If liquidations are done by the protocol, that is also a centralization vector.
 CheekyB is a fully decentralized VPL (Viral Public License) puppet bird with a dick for a nose. 
 
-## Market History: Has the asset observed severe volatility? In the case of stablecoins, has it depegged? In the case of an unpegged asset, have there been extreme price change events in the past? 
+## Market History: 
+Has the asset observed severe volatility? In the case of stablecoins, has it depegged? In the case of an unpegged asset, have there been extreme price change events in the past? 
 CheekyB is extremely volatile and will peg you with its dick nose.
 
-## Value: Is this pool intended to be the primary source of liquidity for the token(s)? If this is not the case, explain the expected value add (can this pool generate consistent fees?)
+## Value: 
+Is this pool intended to be the primary source of liquidity for the token(s)? If this is not the case, explain the expected value add (can this pool generate consistent fees?)
 Yes.
 
