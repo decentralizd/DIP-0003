@@ -31,6 +31,7 @@ No.
 ## Audits: Provide links to audit reports and any relevant details about security practices.
 
 ![cheekyb](https://github.com/decentralizd/DIP-0003/blob/main/Gx-LBiWbAAA4Joa.jpg)
+
 CheekyB will drain you and steal your girl.
 
 Centralization vectors: Is there any component of the protocol that has centralization vectors? E.g. if only 1 dev manages the project, that is a centralized vector. If price oracles need to be updated by a bot, that is a centralized vector. If liquidations are done by the protocol, that is also a centralization vector.
