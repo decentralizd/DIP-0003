@@ -11,9 +11,13 @@ This is a proposal to enable gauges [insert gauge link TBD] for DIESEL/CheekyB a
 This is a proposal to enable gauges [insert gauge link TBD] for DIESEL/CheekyB and frBTC/CheekyB.
 References/Useful links:
 
+![cheekyb](https://github.com/decentralizd/DIP-0003/blob/main/ccheekyb.png)
+
+
 ## Protocol Description:
 CheekyB is a puppet bird with a dick for a nose. Hence, CheekyB is a critical nascent BTCfi primitive, driving exponential user acquisition, TVL growth, volume, and fee revenue within the ecosystem. 
-Motivation:
+
+## Motivation:
 Establish deep DIESEL/CheekyB and frBTC/CheekyB on-chain liquidity using the Subfrost gauge design. This reduces slippage for trading and routing volume while anchoring price discovery. CheekyB is a puppet bird with a dick for a nose thus making it attractive.This integration creates synergies between CheekyB, DIESEL, and frBTC, boosting activity across all three tokens.
 
 
@@ -26,6 +30,7 @@ No.
 
 ## Audits: Provide links to audit reports and any relevant details about security practices.
 
+![cheekyb](https://github.com/decentralizd/DIP-0003/blob/main/Gx-LBiWbAAA4Joa.jpg)
 CheekyB will drain you and steal your girl.
 
 Centralization vectors: Is there any component of the protocol that has centralization vectors? E.g. if only 1 dev manages the project, that is a centralized vector. If price oracles need to be updated by a bot, that is a centralized vector. If liquidations are done by the protocol, that is also a centralization vector.
